@@ -3,7 +3,6 @@ package sample;
 public class Ifsample {
 
     public static void main(String[] args) {
-        // TODO 自動生成されたメソッド・スタブ
         var score=100; //成績
         
         if (score==100) {
